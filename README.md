@@ -89,4 +89,4 @@
 </p>
 
 
-[![Abrahamiaan's GitHub | Languages Over Time](https://stats.quira.sh/Abrahamiaan/languages-over-time?theme=dark)]
+![Abrahamiaan's GitHub | Languages Over Time](https://stats.quira.sh/Abrahamiaan/languages-over-time?theme=dark)

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">A mobile and.NET developer from Armenia.</h3>
+<h3 align="center">A mobile and .NET developer from Armenia.</h3>
 
 - 🔭 I’m currently working on **Travelling mobile application**
 

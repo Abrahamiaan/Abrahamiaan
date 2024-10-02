@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vladik Abrahamyan</h1>
+<h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A mobile and C# backend developer from Armenia.</h3>
 
 - 🔭 I’m currently working on **Travelling mobile application**

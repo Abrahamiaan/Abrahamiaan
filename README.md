@@ -10,7 +10,7 @@
 - 📫 How to reach me **vladabrahamian@gmail.com**
 
 <h3 align="left">Languages:</h3>
-<p align="left"> 
+<p align="left" style="display: flex; gap: 10px;"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -32,7 +32,7 @@
 </p>
 
 <h3 align="left">Technologies:</h3>
-<p align="left"> 
+<p align="left" style="display: flex; gap: 10px;"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
@@ -57,7 +57,7 @@
 </p>
 
 <h3 align="left">Tools:</h3>
-<p align="left"> 
+<p align="left" style="display: flex; gap: 10px;"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
@@ -76,7 +76,7 @@
 </p>
 
 <h3 align="left">Other:</h3>
-<p align="left"> 
+<p align="left" style="display: flex; gap: 10px;"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
@@ -87,5 +87,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
   </a> 
 </p>
+
 
 [![Abrahamiaan's GitHub | Languages Over Time](https://stats.quira.sh/Abrahamiaan/languages-over-time?theme=dark)]
